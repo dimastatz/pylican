@@ -8,9 +8,7 @@ Ludus has different levels of difficulty, and each level introduces new programm
 
 Ludus is an open-source project, and anyone can contribute to the game by adding new features, fixing bugs, or translating the game to different languages. We believe that coding is an essential skill for the future, and our mission is to make coding education accessible to everyone.
 
-With Ludus, learning Python programming language is no longer a boring and daunting task. Join us on this exciting journey of learning and discovery!
-
-
+With Ludus, learning Python programming language is no longer a boring and daunting task.
 
 
 
