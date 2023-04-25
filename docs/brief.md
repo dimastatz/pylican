@@ -1,6 +1,4 @@
-Business Idea Brief: Python Programming Game
-
-# Business Idea Brief: Python Programming Game
+# Business Idea Brief: Python Programming Game (Lama)
 
 ## Overview
 The proposed business idea involves developing a computer game that teaches people Python programming. The game would be designed to be interactive, engaging, and educational, with the aim of helping users to learn and improve their programming skills in a fun and enjoyable way.
