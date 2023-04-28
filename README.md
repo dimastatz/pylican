@@ -1,5 +1,7 @@
 
-<img src="./images/pelican.png" width="24" height="24">
+<img src="./images/pelican.png" width="32" height="32">
+
+
 # Pylican - A Programming Game for Kids
 
 ## Overview
