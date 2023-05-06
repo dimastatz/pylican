@@ -13,7 +13,7 @@ Pylican is an open-source project, and anyone can contribute to the game by addi
 
 ## Programming Concepts
 - [Sequence](./notebooks/sequence.ipynb)
-- [Selection]()
+- [Selection](./notebooks/selection.ipynb)
 - [Iteration]()
 - [Subroutines]()
 
