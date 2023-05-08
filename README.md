@@ -15,8 +15,7 @@ Pylican is an open-source project, and anyone can contribute to the game by addi
 - [Sequence](./notebooks/sequence.ipynb)
 - [Selection](./notebooks/selection.ipynb)
 - [Iteration](./notebooks/iteration.ipynb)
-- [Subroutines]()
-
+- [Subroutines](./notebooks/subroutines.ipynb)
 
 ## Supported Platforms
 [TBD]
